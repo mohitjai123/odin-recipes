@@ -1,0 +1,53 @@
+.alert{
+	color: darkred;
+	background: rgba(220, 090, 10, 0.3);
+	border-radius: 200px;
+	border-style: dotted ;
+    font-size: 3rem;
+    padding-left: 500px;
+	border-color: yellow;
+}
+.sub .ram{
+	color: red;
+}
+
+#title{
+	color: rgb(0, 0, 255);
+	background: rgba(0, 0, 0, 0.3);
+	border-radius: 10px;
+	border-right: dotted;
+	border-color: darkred;
+	font-size: 2rem;
+	border-style: groove;
+	border-spacing: ;
+	padding-left:20px;
+	margin-right: 300px;
+	border-width: 50px;
+}
+#b{
+	padding-left: 200px;
+}
+span{
+	color : green;
+	background-color: rgba(255, 0, 0, 0.5);
+	border-style: dashed;
+	border-color: red;
+	font-size: 30px;
+	margin-left: 20px;
+	padding-bottom:250px;
+	border-radius: 10px;
+}
+img{
+	position: left 8px;
+	border: 5px solid;
+	border-style: double;	
+	border-radius: 12px;
+	background-color: darkred;
+
+}
+.c{
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.deepak{
+	margin-left: 300px;
+}
